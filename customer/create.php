@@ -35,6 +35,9 @@
 				color: #000;
 			}
 			body{
+				background-image: url(../images/usedcar2.jpg);
+				background-repeat: no-repeat;
+				background-size: cover;
 			margin-top:50px;
 			}
 		</style>

@@ -10,6 +10,9 @@
 		<title>wenCar </title>
 		<style>
 			body{
+				background-image: url(../images/usedcars.jpg);
+				background-repeat: no-repeat;
+				background-size: cover;
 			margin-top:100px;
 			}
 			.navbar{
@@ -30,8 +33,8 @@
 				color: #000;
 			}
 		</style>
-	</head>
-	<body class="amber lighten-1">
+	</head >
+	<body class="amber lighten-1" >
 	
 		<main class="valign-wrapper">
 		<div class="row">

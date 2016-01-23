@@ -8,7 +8,7 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<meta name="description" content="">
 		<meta name="author" content="">
-		<title>WEN USED CAR </title>
+		<title>WEN CAR Shop</title>
 		<link href="css/bootstrap.min.css" rel="stylesheet">
 		<link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
 		<link rel="stylesheet" href="css/patros.css" >
@@ -16,7 +16,6 @@
 	</head>
 
 	<body data-spy="scroll">
-		<!-- Navigation -->
 		<nav class="navbar navbar-inverse navbar-fixed-top">
 			<div class="container">
 				<div class="navbar-header">
